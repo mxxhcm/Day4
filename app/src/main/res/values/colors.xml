@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#757575</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundWhite">#99FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="transparent_background">#d9FFFFFF</color>
+    <color name="colorToolbar">#DFDFDF</color>
+
+
+    <color name="colorDeepGreen">#748751</color>
+    <color name="danger">#ffd9534f</color>
+    <color name="white">#FFFFFF</color>
+</resources>
